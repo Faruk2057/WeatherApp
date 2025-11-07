@@ -39,7 +39,7 @@ JavaScript extracts and displays relevant information like:
 
 Temperature (°C)
 
-Weather condition (e.g., sunny, cloudy)
+Weather condition (e.g., sunny, cloudy, raining)
 
 Humidity (%)
 
