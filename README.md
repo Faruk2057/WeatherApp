@@ -1,6 +1,4 @@
 # WeatherApp
-# WeatherForecast
-<img width="1354" height="651" alt="weatherforecast" src="https://github.com/user-attachments/assets/6db09d37-b073-4e17-bd7c-a367dd5e8d87" />
 # 🌦️ Simple Weather Forecast Website
 
 A simple and interactive Weather Forecast Web App built using HTML, CSS, and JavaScript.
